@@ -33,7 +33,7 @@ Desenvolver um sistema funcional automatize o processo de escambo de livros.
 
 𝐓𝐞𝐬𝐭𝐞𝐬 𝐞 𝐈𝐬𝐬𝐮𝐞𝐬: 
 https://escolasesiba-my.sharepoint.com/:w:/g/personal/0000176772_escolasesiba_com_br/IQCdyslLP-puSbD2tUMRFi_cAeszQQexqMNlF642et9izwU?e=g7ZPJJ 
-https://escolasesiba-my.sharepoint.com/:w:/g/personal/0000216316_escolasesiba_com_br/IQAPXsnbNXrSSrzRj1n9UTiNAbSDldmqZRIPe1wcoSq-8wU?e=KePcla
+[https://escolasesiba-my.sharepoint.com/:w:/g/personal/0000216316_escolasesiba_com_br/IQAPXsnbNXrSSrzRj1n9UTiNAbSDldmqZRIPe1wcoSq-8wU?e=KePcla](https://docs.google.com/document/d/1zLBgWFuwetTiX5PWJFdTVEJs2xw-okADMIwt2jEegIs/edit?usp=sharing)
 
 𝐂𝐫é𝐝𝐢𝐭𝐨𝐬: 
 Instituição: SESI/SENAI 
